@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Choii Worldwide</string>
+    <string name="introTitle"><font color="#5b4cbd">Your Shoping</font> Destination \nfor Everything</string>
+    <string name="introSubtitle">Get personalized recommendations\n Enjoy fast, free shipping</string>
+    <string name="singin">Already have an account?<font color="#5b4cbd"> Sign In</font></string>
+    <string name="login">SIGN IN</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="register">SIGN UP</string>
+    <string name="click_to_login">Already have an account? Sign In</string>
+    <string name="click_to_register">Don’t have an account? Sign Up</string>
+    <string name="logout">logout</string>
+    <string name="shop">Continue Shopping</string>
+
+</resources>
